@@ -12,6 +12,7 @@ module Pux.Router
   , param
   , params
   , any
+  , manyAny
   , end
   ) where
 
